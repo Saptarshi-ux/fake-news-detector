@@ -6,7 +6,7 @@ API_KEY = st.secrets["my_api"]
 CSE_ID = st.secrets["my_cx"]
 URL = "https://www.googleapis.com/customsearch/v1"
 
-st.title("Fake News Detector WebApp by Saptarshi")
+st.title("Fake News Detector Web App by Saptarshi")
 st.write("Check if a news headline or claim appears on trusted news sites.")
 query = st.text_input("Enter a headline or statement:")
 def google_search(query):
