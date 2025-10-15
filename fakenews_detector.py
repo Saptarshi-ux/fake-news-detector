@@ -28,7 +28,7 @@ def get_verdict(results):
     if count >= 2:
         return "✅ Likely True (found on multiple trusted sites)"
     elif count == 1:
-        return "Possibly True (found on one trusted source)"
+        return "Not sure whether it is True or False but found on one trusted source"
     else:
         return "Possibly Fake"
 
