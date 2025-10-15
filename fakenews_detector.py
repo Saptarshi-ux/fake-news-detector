@@ -2,8 +2,8 @@ import streamlit as st
 import requests
 import re
 
-API_KEY = "AIzaSyAe4zi5KOt4STxm5Cpw1-nZ_sShtx028LU"
-CSE_ID = "32a8cd60782c84012"
+API_KEY = "my_api"
+CSE_ID = "my_cx"
 URL = "https://www.googleapis.com/customsearch/v1"
 
 st.title("Fake News Detector WebApp by Saptarshi")
