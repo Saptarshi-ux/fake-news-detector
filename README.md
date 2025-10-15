@@ -57,6 +57,9 @@ Project Structure
 ├── requirements.txt     the Dependencies
 └── README.md            the Project documentation
 
+#### Some Illustrations:
+<img width="1550" height="637" alt="image" src="https://github.com/user-attachments/assets/f9970388-24b6-408d-ac12-42fcbfa9b066" />
+
 ##### Author
 
 Saptarshi Bandyopadhyay(@saptarshi-ux)
