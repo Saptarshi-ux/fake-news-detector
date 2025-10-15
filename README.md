@@ -60,6 +60,9 @@ Project Structure
 #### Some Illustrations:
 <img width="1550" height="637" alt="image" src="https://github.com/user-attachments/assets/f9970388-24b6-408d-ac12-42fcbfa9b066" />
 
+<img width="1590" height="774" alt="image" src="https://github.com/user-attachments/assets/3456e35f-f4f6-415e-9d77-29fa420ed40c" />
+
+
 ##### Author
 
 Saptarshi Bandyopadhyay(@saptarshi-ux)
