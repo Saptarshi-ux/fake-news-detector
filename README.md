@@ -67,4 +67,3 @@ Project Structure
 
 Saptarshi Bandyopadhyay(@saptarshi-ux)
 Data & Analytics Professional | Economics & Technology Enthusiast
-Based in Kolkata, India
