@@ -48,6 +48,3 @@ if st.button("Check"):
                     st.markdown(f"**[{r['title']}]({r['link']})**")
                     snippet = re.sub(r'\s+', ' ', r.get('snippet', ''))
                     st.caption(snippet)
-
-#google search API obtained from (https://developers.google.com/custom-search/v1/introduction)
-#Cse_id obtained from (https://programmablesearchengine.google.com/controlpanel/create/congrats?cx=32a8cd60782c84012)
