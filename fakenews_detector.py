@@ -17,9 +17,9 @@ def google_search(query):
 def get_verdict(results):
     trusted = [
     "bbc", "reuters", "apnews", "guardian", "cnn", "nytimes", "snopes", "factcheck.org",
-    "factly", "ndtv", "politifact", "indiatoday", "thehindu", "indianexpress", 
-    "timesofindia", "hindustantimes", "anandabazar", "eisamay", "bloomberg", 
-    "forbes", "economictimes", "thestatesman", "livemint", "telegraphindia",
+    "factly", "ndtv", "politifact", "indiatoday", "thehindu", "indianexpress", "news18.com",
+    "timesofindia", "hindustantimes", "anandabazar", "eisamay", "bloomberg","newschecker.in", 
+    "forbes", "economictimes", "thestatesman", "livemint", "telegraphindia", "bizasialive",
     "newslaundry", "thequint", "business-standard", "espn", "goal.com",
     "skysports", "espncricinfo", "cricbuzz", "onefootball", "wikipedia"
 ]
